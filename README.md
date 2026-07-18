@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/Location-Cairo,%20Egypt-8a2be2?style=flat-square&logo=googlemaps" alt="Location Badge" />
 </p>
 <p align="center">
-  <a href="https://khaledibrahim007.outlook.com">
-    <img src="https://img.shields.io/badge/Portfolio-Premium%20Portfolio-violet?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Button" />
-  </a>
+  <a 
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
   </a>
@@ -180,14 +178,5 @@ This application demonstrates state-of-the-art alternative verification pipeline
   <a href="https://codechef.com">
     <img src="https://img.shields.io/badge/CodeChef-Div_1-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" />
   </a>
-</p>
----
-## 10. GitHub Analytics Section
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledibrahim007&show_icons=true&theme=dark&bg_color=0d1117&title_color=9d4edd&text_color=a3a3a3&icon_color=7b2cbf&border_color=3c096c&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledibrahim007&layout=compact&theme=dark&bg_color=0d1117&title_color=9d4edd&text_color=a3a3a3&icon_color=7b2cbf&border_color=3c096c&hide_border=false" alt="Top Languages" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledibrahim007&theme=dark&background=0d1117&title=9d4edd&text=a3a3a3&icon=7b2cbf&stroke=3c096c&sideChars=9d4edd" alt="GitHub Streak Stats" width="97%" />
 </p>
 ---
